@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # until-count: display a series of numbers
 
 count=1 
