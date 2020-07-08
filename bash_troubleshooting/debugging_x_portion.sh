@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # trouble: script to demonstrate common errors
 
 number=1
